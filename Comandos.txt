@@ -7,3 +7,11 @@ git log --oneline #Permite Visualizar los comit que se han realizado
 git reset --hard 01cad60 #Regresa a una versión anterior , se debe especificar el commit
 
 git commit -am "Comando para agregar a staging y hacer commit en una sola linea"
+
+#PASOS PARA SUBIR A GIT HUB
+
+1.- Crear un nuevo repositorio vacio en GITHUB
+
+2.- En nuestro proyecto local vamos a ejecutar:	
+	git remote add origin https://github.com/zhav3x/CursoGit.git
+	git push -u origin master
