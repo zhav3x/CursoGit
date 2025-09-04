@@ -2,4 +2,6 @@ git init # Inicializa un nuevo repositorio
 git add  # Agregar archivos al staging (área de ensayo)
 git commit # Almacena la copia del archivo en el repositorio local
 
+git log --oneline #Permite Visualizar los comit que se han realizado
+
 git reset --hard 01cad60 #Regresa a una versión anterior , se debe especificar el commit
