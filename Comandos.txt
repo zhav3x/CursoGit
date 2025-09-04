@@ -1,0 +1,3 @@
+git init # Inicializa un nuevo repositorio
+git add  # Agregar archivos al staging (área de ensayo)
+git commit # Almacena la copia del archivo en el repositorio local
