@@ -15,3 +15,9 @@ git commit -am "Comando para agregar a staging y hacer commit en una sola linea"
 2.- En nuestro proyecto local vamos a ejecutar:	
 	git remote add origin https://github.com/zhav3x/CursoGit.git
 	git push -u origin master
+
+#Ramas
+
+git branch html # Crear una rama llamada Branch
+git checkout html #Cambia a una rama distinta según el nombre
+
