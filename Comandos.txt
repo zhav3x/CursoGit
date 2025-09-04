@@ -26,3 +26,9 @@ git commit -am "Comando para agregar a staging y hacer commit en una sola linea"
 
 
 #Parrago agregado en la rama master
+
+#Ramas
+
+git branch html # Crear una rama llamada Branch
+git checkout html #Cambia a una rama distinta según el nombre
+
