@@ -17,14 +17,6 @@ git commit -am "Comando para agregar a staging y hacer commit en una sola linea"
 	git push -u origin master
 
 
-
-
-
-
-
-
-
-
 #Parrago agregado en la rama master
 
 #Ramas
